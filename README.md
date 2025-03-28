@@ -1,2 +1,14 @@
-# website
-Personal website of Daniel Suso – iOS Engineer and OCR athlete Static site built with HTML and Tailwind CSS, deployed via GitHub Pages. A personal and professional showcase combining tech and sports.
+# Daniel Suso – Personal Website
+
+Static personal website built with HTML and Tailwind CSS, deployed via GitHub Pages.
+
+## Technologies
+- HTML
+- Tailwind CSS
+- GitHub Pages
+
+## How to deploy
+1. Push to GitHub.
+2. Go to Settings > Pages.
+3. Select `main` branch and `/root` folder as source.
+4. Access via `https://<username>.github.io/website/`
